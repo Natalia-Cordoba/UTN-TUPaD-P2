@@ -4,7 +4,7 @@
 
 ## ✨ Estudiante  
 - **Nombre:** Córdoba, Natalia Marilina  
-- **Comisión:** M2025-7   
+- **Comisión:** Ag2025-2C-7   
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 2**.  
